@@ -19,3 +19,9 @@ const run = () =>
             item.classList.add('show');
         }
     });
+
+//Events
+
+window.addEventListener('load', run);
+window.addEventListener('resize', run);
+window.addEventListener('scroll', run);
