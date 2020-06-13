@@ -6,6 +6,7 @@ This project is a demonstration in CSS3 keyframes, transitions, and transformati
 ## Built With
 HTML5 <br>
 CSS3<br>
+Javascript<br>
 JQuery
 
 ## Areas of Expansion
