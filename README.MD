@@ -12,12 +12,21 @@ JQuery<br>
 Google fonts
 
 ## Areas of Expansion
+More animations!
 
 ## Authors
 Cooper Pearson
 
 ## Screenshots
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Home](https://github.com/cooperpear/Animations/blob/master/screencapture-cooperpear-github-io-Animations-2020-06-13-16_16_19.png?raw=true "Home")
+
+![Home](https://github.com/cooperpear/Animations/blob/master/screencapture-cooperpear-github-io-Animations-Menu-menu-html-2020-06-13-16_17_06%20(1).png?raw=true "Home")
+
+![Home](https://github.com/cooperpear/Animations/blob/master/screencapture-cooperpear-github-io-Animations-Menu-menu-html-2020-06-13-16_17_52.png?raw=true "Home")
+
+![Home](https://github.com/cooperpear/Animations/blob/master/screencapture-cooperpear-github-io-Animations-knowledge-resume-index-html-2020-06-13-16_18_43.png?raw=true "Home")
+
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
