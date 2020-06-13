@@ -9,7 +9,8 @@ HTML5 <br>
 CSS3<br>
 Javascript<br>
 JQuery<br>
-Google fonts
+Google fonts<br>
+Font Awesome
 
 ## Areas of Expansion
 More animations!
