@@ -7,7 +7,8 @@ This project is a demonstration in CSS3 keyframes, transitions, and transformati
 HTML5 <br>
 CSS3<br>
 Javascript<br>
-JQuery
+JQuery<br>
+Google fonts
 
 ## Areas of Expansion
 
