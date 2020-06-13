@@ -1,5 +1,5 @@
 # Animations
-This project is a demonstration in CSS3 keyframes, transitions, and transformations. It employs CSS variables for easy page manipulation. 
+This project is a demonstration in CSS3 keyframes, transitions, and transformations. It employs CSS variables for easy page manipulation. Take a journey through the pages to see examples of each.
 
 ## Deployed
 
