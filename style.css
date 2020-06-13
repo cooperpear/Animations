@@ -79,12 +79,12 @@ body {
 /* Page Animation */
 
 #page-1 h1 {
-    transform: translateY(-800px);
+    transform: translateY(-1200px);
     animation: heading var(--animate-speed) forwards ease-in;
 }
 
 #page-1 p {
-    transform: translateX(-800px);
+    transform: translateX(-1200px);
     animation: text var(--animate-speed) forwards ease-in 2s;
 }
 

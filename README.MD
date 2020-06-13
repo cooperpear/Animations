@@ -2,6 +2,7 @@
 This project is a demonstration in CSS3 keyframes, transitions, and transformations. It employs CSS variables for easy page manipulation. Take a journey through the pages to see examples of each.
 
 ## Deployed
+https://cooperpear.github.io/Animations/
 
 ## Built With
 HTML5 <br>
